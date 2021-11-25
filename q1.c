@@ -5,7 +5,7 @@ int main()
 {
 int integer;
 unsigned int uinteger;
-signed sinteger;
+signed int sinteger;
 char character;
 signed char scharacter;
 unsigned char ucharacter;
